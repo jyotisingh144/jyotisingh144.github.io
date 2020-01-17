@@ -8136,7 +8136,7 @@ html {
   background: #000; }
 
 body {
-  font-family: "Work Sans", Arial, sans-serif;
+  font-family: "Poppins", Arial, sans-serif;
   font-size: 16px;
   line-height: 1.8;
   font-weight: 400;
@@ -8361,7 +8361,7 @@ header {
       display: inline-block;
       margin-bottom: 0;
       line-height: 1.5;
-      font-family: "Work Sans", Arial, sans-serif; }
+      font-family: "Poppins", Arial, sans-serif; }
       header .colorlib-navbar-brand .colorlib-logo span {
         color: #a3816a; }
       header .colorlib-navbar-brand .colorlib-logo i {
@@ -9249,7 +9249,7 @@ textarea.form-control {
     margin-bottom: 40px;
     font-size: 20px;
     color: #fff;
-    font-weight: 900; }
+    font-weight: 600; }
   .ftco-footer .ftco-footer-widget .logo a {
     font-size: 24px;
     color: #fff; }
