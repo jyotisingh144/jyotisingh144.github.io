@@ -13215,17 +13215,17 @@ button:focus {
     transition: 0s;
   }
   .u-header--white-nav-links:not(.bg-white):not(.js-header-fix-moment):not(.u-scrolled) .u-header__nav-item:hover .u-header__nav-link {
-    color: #fff;
+    color: #6b6b6b;
   }
   .u-header--white-nav-links:not(.bg-white):not(.js-header-fix-moment):not(.u-scrolled) .u-header__nav-link,
   .u-header--white-nav-links:not(.bg-white):not(.js-header-fix-moment):not(.u-scrolled) .u-header__nav-item-user-name,
   .u-header--white-nav-links:not(.bg-white):not(.js-header-fix-moment):not(.u-scrolled) [class*="btn-text-"] {
-    color: rgba(255, 255, 255, 0.9);
+    color: #6b6b6b
   }
   .u-header--white-nav-links:not(.bg-white):not(.js-header-fix-moment):not(.u-scrolled) .u-header__nav-link:hover,
   .u-header--white-nav-links:not(.bg-white):not(.js-header-fix-moment):not(.u-scrolled) .u-header__nav-item-user-name:hover,
   .u-header--white-nav-links:not(.bg-white):not(.js-header-fix-moment):not(.u-scrolled) [class*="btn-text-"]:hover {
-    color: #fff;
+    color: #6b6b6b;
   }
   .u-header--white-nav-links:not(.bg-white):not(.js-header-fix-moment):not(.u-scrolled) .u-header__nav-item-user {
     background-color: rgba(255, 255, 255, 0.1);
