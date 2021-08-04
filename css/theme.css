@@ -13189,9 +13189,9 @@ button:focus {
   .u-header--bg-transparent .u-header__navbar-brand-on-scroll {
     display: none;
   }
-  .u-header--bg-transparent.js-header-fix-moment .u-header__navbar-brand-default, .u-header--bg-transparent.u-scrolled .u-header__navbar-brand-default {
+  /* .u-header--bg-transparent.js-header-fix-moment .u-header__navbar-brand-default, .u-header--bg-transparent.u-scrolled .u-header__navbar-brand-default {
     display: none;
-  }
+  } */
   .u-header--bg-transparent.js-header-fix-moment .u-header__navbar-brand-on-scroll, .u-header--bg-transparent.u-scrolled .u-header__navbar-brand-on-scroll {
     display: inline-block;
   }
